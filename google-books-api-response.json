@@ -1,0 +1,1568 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 309,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZMg0EAAAQBAJ",
+      "etag": "ujBmolttWjg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZMg0EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cartomancie Pratique Pour Tous.troisième Édition Révisée Et Augmentée",
+        "authors": [
+          "Antares Stanislas"
+        ],
+        "publisher": "Babelcube Inc",
+        "publishedDate": "2021-06-25",
+        "description": "Dans cette nouvelle et troisième édition, Antares Stanislas ajoute la méthode septénaire, une autre méthode de pose de papier à extraction séquentielle qui remplace la méthode de la pyramide inversée par rapport à celle illustrée et expliquée dans la deuxième édition. Ce texte pratique du Tarot rassemble et illustre les méthodes et les jeux de divination que l'auteur a utilisés avec succès depuis plus de vingt ans. Après quelques observations sur le secteur, l'auteur répond à des questions particulières, telles que: les temps dans les prévisions, si les cartes ont un côté à droite ou à l'envers, et autres curiosités. Il explique ses trois méthodes de divination avec le tarot et vise à transmettre la méthode à travers un langage simple et avec 24! exemples illustrés de tartinades de tarot, consultations réelles et confirmées.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781667403649"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1667403648"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 61,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZMg0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZMg0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=ZMg0EAAAQBAJ&printsec=frontcover&dq=la+pyramide+invers%C3%A9e&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZMg0EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZMg0EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZMg0EAAAQBAJ&rdid=book-ZMg0EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Cartomancie_Pratique_Pour_Tous_troisi%C3%A8m-sample-epub.acsm?id=ZMg0EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/Cartomancie_Pratique_Pour_Tous_troisi%C3%A8m-sample-pdf.acsm?id=ZMg0EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZMg0EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans cette nouvelle et troisième édition, Antares Stanislas ajoute la méthode septénaire, une autre méthode de pose de papier à extraction séquentielle qui remplace la méthode de la pyramide inversée par rapport à celle illustrée ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "XGCCOB4HztA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&printsec=frontcover&dq=la+pyramide+invers%C3%A9e&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cet ouvrage philosophique essaie de remettre en discussion l&#39;ancien Prince machiavélique et remettre le peuple au sommet d&#39;une pyramide idéale, qui est le vrai chef d&#39;état et dont les niveaux inférieurs ne sont rien d&#39;autre que des ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bkrnDwAAQBAJ",
+      "etag": "IMXwK148Ckk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bkrnDwAAQBAJ",
+      "volumeInfo": {
+        "title": "J’suis fils d’un nègre, et non d’un pingre !",
+        "authors": [
+          "Véracité-Ktn"
+        ],
+        "publisher": "Luzabusu Editions",
+        "publishedDate": "2020-02-11",
+        "description": "Non, nègre, je le suis, mais pingre, je ne le suis pas ! La négritude est là ma fierté de ne plus rester là assistant ce gaspillage dans mon continent, d’autant plus que si hier mes confrères nègres se sont ralliés à la cause des esclavagistes pour nuire à leurs patries, aujourd’hui cette pyramide doit être inversée, les nègres doivent s’unir pour faire le front à tous ces esclavagismes modernisés et sophistiqués mis à jour par les bourreaux qui pensent que la terre est leur propriété privée, qu’à part eux, personne d’autre n’a le droit d’en jouir les fruits.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782381540139"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "238154013X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bkrnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bkrnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=bkrnDwAAQBAJ&printsec=frontcover&dq=la+pyramide+invers%C3%A9e&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bkrnDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bkrnDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.49,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 6.49,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bkrnDwAAQBAJ&rdid=book-bkrnDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6490000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6490000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/J_suis_fils_d_un_n%C3%A8gre_et_non_d_un_ping-sample-epub.acsm?id=bkrnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/J_suis_fils_d_un_n%C3%A8gre_et_non_d_un_ping-sample-pdf.acsm?id=bkrnDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bkrnDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Non, nègre, je le suis, mais pingre, je ne le suis pas !"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PWEizgEACAAJ",
+      "etag": "djwwKSyrvIU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PWEizgEACAAJ",
+      "volumeInfo": {
+        "title": "Optimisation de la séquence d'extraction à la mine de Perkoa, cas de la zone 310-400",
+        "authors": [
+          "Youmandja Thiombiano"
+        ],
+        "publishedDate": "2020",
+        "description": "Résumé en anglais",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1227475658"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=PWEizgEACAAJ&dq=la+pyramide+invers%C3%A9e&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=PWEizgEACAAJ&dq=la+pyramide+invers%C3%A9e&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Optimisation_de_la_s%C3%A9quence_d_extractio.html?hl=&id=PWEizgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PWEizgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans les opérations minières souterraines, la rentabilité et le niveau de sécurité dépendent également de la séquence d&#39;extraction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4fnRDwAAQBAJ",
+      "etag": "/VvPoF1wZ0U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4fnRDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Do you speak Football ?",
+        "subtitle": "Le glossaire complet du football à travers le monde",
+        "authors": [
+          "Tom Williams"
+        ],
+        "publisher": "Hachette Pratique",
+        "publishedDate": "2019-04-24",
+        "description": "Parler foot, c'est parler un millier de langues différentes... Dans ce gloassaire international des mots du foot, partez à la découverte d'un langage riche, original et joyeusement créatif, pratiqué par les fans, les commentateurs et les joueurs du monde entier. D'un tir \"là où dort la chouette\" au Brésil à l'utilisation de votre \"jambe en chocolat\" aux Pays-Bas, les traductions et les explications collectées dans cet ouvrage vous divertiront tout en consolidant votre culture footballistique. Avec plus de 700 termes provenant de 89 pays (dont 29 façons de décrire un petit pont ! ), vous avez entre les mains le guide ultime du langage international du football. \"Drôle, érudit, riche, à relire à l'infini. Idéal pour ceux qui croyaient déjà tout connaître du langage du foot.\" Barney Ronay, The Guardian \"Un ouvrage fascinant et nécessaire. \" Johnathan Wilson, fondateur de The Blizzard, auteur à succès de La Pyramide inversée \"Étonnant, addictif, bourré d'anecdotes, c'est bien plus qu'un glossaire... L'écriture est précise, légère et souvent charmante, Un régal.\" Jonathan Northcroft, Sunday Times \"Enfin un guide de référence sur la phraséologie du football dans le monde ! La richesse de la langue du jeu transparaît dans ce glossaire captivant. Étincelant et très drôle ! \" Paul Hayward, Daily Telegraph",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782017864929"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2017864927"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4fnRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4fnRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=4fnRDwAAQBAJ&dq=la+pyramide+invers%C3%A9e&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=4fnRDwAAQBAJ&dq=la+pyramide+invers%C3%A9e&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Do_you_speak_Football.html?hl=&id=4fnRDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4fnRDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Parler foot, c&#39;est parler un millier de langues différentes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V29_DwAAQBAJ",
+      "etag": "3yV3AGiNb5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V29_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "La Pyramide inversée",
+        "authors": [
+          "Jonathan Wilson"
+        ],
+        "publisher": "Hachette Pratique",
+        "publishedDate": "2018-09-26",
+        "description": "Revue et augmentée spécialement pour l'édition française par l'auteur Jonathan Wilson en collaboration avec le traducteur Philippe Auclair. La tactique en football définit la façon dont les joueurs d'une équipe se positionnent sur le terrain et opèrent entre eux. Ces dispositifs comprennent la mise en place initiale d'un plan de jeu (on parle de « formation »), et une fois la partie commencée, le placement des joueurs les uns par rapport aux autres et leurs actions de déplacements, qui peuvent être « orchestrées » à partir du banc de touche par l'entraîneur. Jonathan Wilson décortique les détails les plus subtils de la tactique footballistique dans le monde, retraçant l'histoire mondiale de la tactique : des temps modernes, il remonte aux sources de son histoire alors même que le chaos semblait régner sur le terrain. Chemin faisant, l'auteur se penche sur la vie de grands joueurs et de penseurs qui ont façonné ce sport.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782016255940"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2016255943"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V29_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V29_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=V29_DwAAQBAJ&dq=la+pyramide+invers%C3%A9e&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=V29_DwAAQBAJ&dq=la+pyramide+invers%C3%A9e&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Pyramide_invers%C3%A9e.html?hl=&id=V29_DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V29_DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jonathan Wilson décortique les détails les plus subtils de la tactique footballistique dans le monde, retraçant l&#39;histoire mondiale de la tactique : des temps modernes, il remonte aux sources de son histoire alors même que le chaos ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8tWxxAEACAAJ",
+      "etag": "oo3gG7/eBUA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8tWxxAEACAAJ",
+      "volumeInfo": {
+        "title": "Do you speak Football ?",
+        "subtitle": "Le glossaire complet du football à travers le monde",
+        "authors": [
+          "Tom Williams"
+        ],
+        "publisher": "Hachette Pratique",
+        "publishedDate": "2019-04-24",
+        "description": "Parler foot, c'est parler un millier de langues différentes... Dans ce glossaire international des mots du foot, partez à la découverte d'un langage riche, original et joyeusement créatif, pratiqué par les fans, les commentateurs et les joueurs du monde entier. D'un tir \"là où dort la chouette\" au Brésil à l'utilisation de votre \"jambe en chocolat\" aux Pays-Bas, les traductions et les explications collectées dans cet ouvrage vous divertiront tout en consolidant votre culture footballistique. Avec plus de 700 termes provenant de 89 pays (dont 29 façons de décrire un petit pont ! ), vous avez entre les mains le guide ultime du langage international du football.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2016277602"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782016277607"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=8tWxxAEACAAJ&dq=la+pyramide+invers%C3%A9e&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.be/books?id=8tWxxAEACAAJ&dq=la+pyramide+invers%C3%A9e&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Do_you_speak_Football.html?hl=&id=8tWxxAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8tWxxAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Parler foot, c&#39;est parler un millier de langues différentes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "FN6XbIVyPpY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&pg=PA3&dq=la+pyramide+invers%C3%A9e&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Luc Marie Guidicelli. <b>inversée</b> Nous sommes habitués de voire une <b>pyramide</b> se lever au ciel, le toucher avec sa pointe millénaire. Mais qu&#39;en serait-il si <b>la pyramide</b> se développait dans le sol, et sa base serait à ... <b>La pyramide inversée</b> ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "d6T0EGvd+FE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&pg=PA15&dq=la+pyramide+invers%C3%A9e&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>la pyramide inversée</b> se trouve le peuple. Dans une représentation graphique métaphorique on pourrait bien utiliser une pyramide conventionnelle et y inscrire à son sommet « Peuple ». Mais du point de vue de la « masse » de ce sommet, on&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "cRthndzY4mg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&pg=PA113&dq=la+pyramide+invers%C3%A9e&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>inversée</b> ne se fait pas d&#39;un jour à l&#39;autre. Il faut que le souverain et ses serviteurs apprennent les meilleures règles ... <b>la pyramide</b> on trouve les gouvernants et le juges (quelques fois les juges sont classé au-dessus des gouvernants)&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "mu4TBauOqMg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&pg=PA19&dq=la+pyramide+invers%C3%A9e&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>la pyramide inversée</b> est délégué à un « parlement » ou une « assemblée ». Mais ils existent des bons exemples de parlement populaire, où le peuple se rassemble et vote à la majorité de ceux qui sont présents. Même si on parle d&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "WCFIpIXqhDs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&pg=PA14&dq=la+pyramide+invers%C3%A9e&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>la pyramide inversée</b> prévoit un peu plus d&#39;organes que le système antagoniste. S&#39;il est vrai qu&#39;un législatif s&#39;impose pour des raisons d&#39;économicité et efficacité, qu&#39;un exécutif est nécessaire pour réagir plus vite à la vie courante&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "J97YgKRXV9M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&pg=PA49&dq=la+pyramide+invers%C3%A9e&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>la pyramide inversée</b> le droit naturel trouve encore sa place, quoique limitée à la condition humaine qui se distingue de celle des autres espèces vivantes par des caractères surtout de sensibilité, intelligence et culture. Le droit&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "iccz3JtAQww",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&pg=PP1&dq=la+pyramide+invers%C3%A9e&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Luc Marie Guidicelli. INVERSÉE MANUEL DE POLITIQUE SOCIALE LUC MARIE GUIDICELLI 2020 <b>LA PYRAMIDE INVERSÉE</b> MANUEL DE POLITIQUE SOCIALE LUC MARIE GUIDICELLI. LA PYRAMIDE Front Cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "3kX3dgD//m0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&pg=PA61&dq=la+pyramide+invers%C3%A9e&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... sous l&#39;angle de <b>la pyramide inversée</b>. Il s&#39;agit de thèmes choisis et on pourrait toujours en ajouter, sans jamais pouvoir former une liste exhaustive. La guerre n&#39;est pas nécessaire, mais malheureusement est présente dans 61. 6&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "KCfL+gOsayU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&pg=PA115&dq=la+pyramide+invers%C3%A9e&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>la pyramide inversée</b> ne peut donc se faire en un jour, et nécessite de la (com)participation de tout individu de la société. On ne peut pas penser que tout le monde sera d&#39;accord, seulement un fou pourrait le penser, mais dès qu&#39;une&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BY3EAAAQBAJ",
+      "etag": "JoG0Z7BkvCA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "La pyramide inversée",
+        "authors": [
+          "Luc Marie Guidicelli"
+        ],
+        "publisher": "Luca Maria GUIDICELLI",
+        "publishedDate": "2021-01-01",
+        "description": "Cet ouvrage philosophique essaie de remettre en discussion l'ancien Prince machiavélique et remettre le peuple au sommet d'une pyramide idéale, qui est le vrai chef d'état et dont les niveaux inférieurs ne sont rien d'autre que des serviteurs en faveur du peuple lui-même. Un tour d'horizon sur les principaux thèmes de la vie sociale commune",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=9BY3EAAAQBAJ&pg=PA16&dq=la+pyramide+invers%C3%A9e&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9BY3EAAAQBAJ&rdid=book-9BY3EAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_pyramide_invers%C3%A9e-sample-pdf.acsm?id=9BY3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BY3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>la pyramide inversée</b> ne veulent plus lui reconnaître sa suprématie. Le peuple n&#39;est pas une bête, comme prétendait Polycarpe. Le peuple est intelligent dans sa sagesse collective. Le peuple nécessite en effet de chefs, mais il lui&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZXF_DwAAQBAJ",
+      "etag": "zLCS6O/a1eo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZXF_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "La Pyramide inversée",
+        "authors": [
+          "Jonathan Wilson"
+        ],
+        "publisher": "Hachette Pratique",
+        "publishedDate": "2018-09-26",
+        "description": "Revue et augmentée spécialement pour l'édition française par l'auteur Jonathan Wilson en collaboration avec le traducteur Philippe Auclair. La tactique en football définit la façon dont les joueurs d'une équipe se positionnent sur le terrain et opèrent entre eux. Ces dispositifs comprennent la mise en place initiale d'un plan de jeu (on parle de « formation »), et une fois la partie commencée, le placement des joueurs les uns par rapport aux autres et leurs actions de déplacements, qui peuvent être « orchestrées » à partir du banc de touche par l'entraîneur. Jonathan Wilson décortique les détails les plus subtils de la tactique footballistique dans le monde, retraçant l'histoire mondiale de la tactique : des temps modernes, il remonte aux sources de son histoire alors même que le chaos semblait régner sur le terrain. Chemin faisant, l'auteur se penche sur la vie de grands joueurs et de penseurs qui ont façonné ce sport.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782016255940"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2016255943"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.0.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZXF_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZXF_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=ZXF_DwAAQBAJ&pg=PA55&dq=la+pyramide+invers%C3%A9e&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZXF_DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZXF_DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZXF_DwAAQBAJ&rdid=book-ZXF_DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_Pyramide_invers%C3%A9e-sample-epub.acsm?id=ZXF_DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_Pyramide_invers%C3%A9e-sample-pdf.acsm?id=ZXF_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZXF_DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... la pyramide étant à l&#39;origine une tactique anglaise. Le ton d&#39;un portrait du joueur du Celtic, James Kelly, publié par le Scottish Referee en 1889 indique ... <b>LA PYRAMIDE INVERSÉE</b> discussions complexes et abstraites sur la tactique,"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZXF_DwAAQBAJ",
+      "etag": "NlsQHHKr6iA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZXF_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "La Pyramide inversée",
+        "authors": [
+          "Jonathan Wilson"
+        ],
+        "publisher": "Hachette Pratique",
+        "publishedDate": "2018-09-26",
+        "description": "Revue et augmentée spécialement pour l'édition française par l'auteur Jonathan Wilson en collaboration avec le traducteur Philippe Auclair. La tactique en football définit la façon dont les joueurs d'une équipe se positionnent sur le terrain et opèrent entre eux. Ces dispositifs comprennent la mise en place initiale d'un plan de jeu (on parle de « formation »), et une fois la partie commencée, le placement des joueurs les uns par rapport aux autres et leurs actions de déplacements, qui peuvent être « orchestrées » à partir du banc de touche par l'entraîneur. Jonathan Wilson décortique les détails les plus subtils de la tactique footballistique dans le monde, retraçant l'histoire mondiale de la tactique : des temps modernes, il remonte aux sources de son histoire alors même que le chaos semblait régner sur le terrain. Chemin faisant, l'auteur se penche sur la vie de grands joueurs et de penseurs qui ont façonné ce sport.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782016255940"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2016255943"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.0.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZXF_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZXF_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=ZXF_DwAAQBAJ&pg=PA209&dq=la+pyramide+invers%C3%A9e&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZXF_DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZXF_DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZXF_DwAAQBAJ&rdid=book-ZXF_DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_Pyramide_invers%C3%A9e-sample-epub.acsm?id=ZXF_DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_Pyramide_invers%C3%A9e-sample-pdf.acsm?id=ZXF_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZXF_DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... la pyramide. Une fois le carré transformé en parallélogramme, il ne fallait pas grand-chose pour qu&#39;il se transforme en diamant, et lorsque cela se produisit, le 4-2-4 était 209 <b>LA PYRAMIDE INVERSÉE</b> né. Mais avant que cela puisse se."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZXF_DwAAQBAJ",
+      "etag": "eXC/KvLqfHw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZXF_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "La Pyramide inversée",
+        "authors": [
+          "Jonathan Wilson"
+        ],
+        "publisher": "Hachette Pratique",
+        "publishedDate": "2018-09-26",
+        "description": "Revue et augmentée spécialement pour l'édition française par l'auteur Jonathan Wilson en collaboration avec le traducteur Philippe Auclair. La tactique en football définit la façon dont les joueurs d'une équipe se positionnent sur le terrain et opèrent entre eux. Ces dispositifs comprennent la mise en place initiale d'un plan de jeu (on parle de « formation »), et une fois la partie commencée, le placement des joueurs les uns par rapport aux autres et leurs actions de déplacements, qui peuvent être « orchestrées » à partir du banc de touche par l'entraîneur. Jonathan Wilson décortique les détails les plus subtils de la tactique footballistique dans le monde, retraçant l'histoire mondiale de la tactique : des temps modernes, il remonte aux sources de son histoire alors même que le chaos semblait régner sur le terrain. Chemin faisant, l'auteur se penche sur la vie de grands joueurs et de penseurs qui ont façonné ce sport.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782016255940"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2016255943"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.0.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZXF_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZXF_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.be/books?id=ZXF_DwAAQBAJ&pg=PA45&dq=la+pyramide+invers%C3%A9e&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZXF_DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZXF_DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZXF_DwAAQBAJ&rdid=book-ZXF_DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_Pyramide_invers%C3%A9e-sample-epub.acsm?id=ZXF_DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.be/books/download/La_Pyramide_invers%C3%A9e-sample-pdf.acsm?id=ZXF_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZXF_DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jonathan Wilson. DE LA GENÈSE À LA PYRAMIDE par trois buts à un, leur victoire étant généralement attribuée au fait qu&#39;ils avaient une formation organisée. Cela –  ajouté à leur ... <b>LA PYRAMIDE INVERSÉE</b> fait ne peut être passé sous silence."
+      }
+    }
+  ]
+}
